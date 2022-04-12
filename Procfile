@@ -1,0 +1,1 @@
+web: gunicorn itinerary_api.wsgi
